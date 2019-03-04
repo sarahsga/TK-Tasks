@@ -20,6 +20,6 @@ Create a Recipe app:
 ----
 
 ## Rules
-1. Your app should look like the mockups attached in the `screenshots` folder. Try to achieve pixel perfection.
+1. Your app layout should look like the mockups attached in the `screenshots` folder.
 
 -------------------
