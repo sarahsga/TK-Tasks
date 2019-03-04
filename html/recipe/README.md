@@ -16,6 +16,8 @@ Create a Recipe app:
 
 ### What does it look like?
 
+----
+
 ![mockup](screenshots/mockup-1.png)
 
 ----
