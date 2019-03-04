@@ -2,7 +2,11 @@
 
 | **Powered By** Tech Karo  |
 
-### Task ###
+- [Task Description](#task-description)
+- [What does it look like?](#what-does-it-look-like)
+- [Rules](#rules)
+
+### Task Description ###
 Create a Recipe app:
 - Go to http://www.khanapakana.com/ and choose a recipe
 - Create a web page of your chosen recipe. 
