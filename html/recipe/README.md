@@ -2,8 +2,6 @@
 
 | **Powered By** Tech Karo  |
 
-**Oct 4th, 2018**
-
 ### Task ###
 Create a Recipe app:
 - Go to http://www.khanapakana.com/ and choose a recipe
