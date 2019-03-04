@@ -1,5 +1,4 @@
-# Tech Karo - Final Test
-### The Lotus Translations App
+# Tech Karo - Recipe App
 
 | **Powered By** Tech Karo  |
 
