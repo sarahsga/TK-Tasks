@@ -23,8 +23,3 @@ NOTE: Your CV will look different than the screenshot below. The screenshot is g
 ![mockup](screenshots/mockup-1.png)
 
 ----
-
-## Rules
-1. Your app layout should look like the mockups attached in the `screenshots` folder.
-
--------------------
