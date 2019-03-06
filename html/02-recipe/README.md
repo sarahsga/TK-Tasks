@@ -17,11 +17,9 @@ Create a Recipe app:
 
 ### What does it look like?
 
-----
-
 ![mockup](screenshots/mockup-1.png)
 
-----
+------
 
 ## Rules
 1. Your app layout should look like the mockups attached in the `screenshots` folder.
