@@ -18,8 +18,5 @@ Create you own Curriculum Vitae:
 ### What does it look like?
 NOTE: Your CV will look different than the screenshot below. The screenshot is given just to give you an idea about the task. Try to be creative with your CV and add your own touch to it.
 
-----
-
 ![mockup](screenshots/mockup-1.png)
 
-----
