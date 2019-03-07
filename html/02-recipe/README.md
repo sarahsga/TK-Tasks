@@ -4,24 +4,20 @@
 
 - [Task Description](#task-description)
 - [What does it look like?](#what-does-it-look-like)
-- [Rules](#rules)
 
 ### Task Description ###
 Create a Recipe app:
-- Go to http://www.khanapakana.com/ and choose a recipe
+- Go to http://www.khanapakana.com/ and choose any recipe you like
 - Create a web page of your chosen recipe. 
 - Your recipe should have lists of:
     - Ingredients
     - Instructions
 - Each ingredient quantity should be in italics
 
+------
+
 ### What does it look like?
 
 ![mockup](screenshots/mockup-1.png)
 
 ------
-
-## Rules
-1. Your app layout should look like the mockups attached in the `screenshots` folder.
-
--------------------
