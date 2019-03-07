@@ -20,6 +20,6 @@ Watch me complete this task in this [Youtube Tutorial](#) (Video coming soon)
 
 ![mockup](screenshots/mockup-original.png)
 
-your webpage should look like this:
+#### your webpage should look like this:
 
 ![my web page](screenshots/my-webpage.png)
