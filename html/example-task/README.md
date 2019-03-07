@@ -5,7 +5,7 @@
 ### Task Description
 Choose any product from [The Flower Studio](https://theflowerstudio.pk), identify HTML elements in the product details page, and create the webpage yourself using HTML.
 
-**This is an example task. So the source code can be downloaded from this repo `src/` folder.**
+**This is an example task. So the source code can be downloaded from this repo `the-flower-studio/` folder.**
 
 ----
 
