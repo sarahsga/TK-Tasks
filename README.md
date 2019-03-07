@@ -1,4 +1,4 @@
-# Tech Karo - HTML Tasks
+# Tech Karo - Web Dev Tasks
 
 | **Powered By** Tech Karo  |
 
