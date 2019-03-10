@@ -10,6 +10,7 @@ HTML Tasks are designed to help you identify different HTML elements in a web pa
 ## How to do HTML Tasks?
 * You only need HTML to complete these tasks.
 * No CSS required.
+
 Watch the [Youtube Video](https://www.youtube.com/watch?v=0oAObaNocSM&index=13&list=PLQOMb3DMzPZFX6tBRWdT1m1rwRu17aaSA) on how to do HTML tasks.
 
 You will be given a concept / a screenshot / an existing website. Your job is to identify HTML elements in it and create a web page yourself using HTML only.
