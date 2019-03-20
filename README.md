@@ -6,7 +6,7 @@ This repo contains several tasks to practice HTML, CSS and JS. Choose any tasks 
 
 * [HTML Tasks](html/)
 
-Watch the [Youtube Video](https://https://youtu.be/bKzNhlM_E4A) on how to do HTML tasks.
+Watch the [Youtube Video](https://youtu.be/bKzNhlM_E4A) on how to do HTML tasks.
 
 * [CSS Tasks](css/)
 * [JS Tasks](js/)

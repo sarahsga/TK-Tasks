@@ -10,7 +10,7 @@ Choose any product from [The Flower Studio](https://theflowerstudio.pk), identif
 ----
 
 ### How to do this task?
-Watch me complete this task in this [Youtube Tutorial](https://https://youtu.be/bKzNhlM_E4A)
+Watch me complete this task in this [Youtube Tutorial](https://youtu.be/bKzNhlM_E4A)
 
 ----
 
