@@ -23,7 +23,7 @@ Each task is named using the format `number-taskname`. The number signifies task
 [Click to check full code and explanation of an example task.](example-task/)
 
 ### Code Quality
-
+Assignments will be checked based on the following metrics
 - Follow [indentation rules](https://www.granneman.com/webdev/coding/formatting-and-indenting-your-html)
 - HTML tag names should be in lower case
 - Use relative paths only
