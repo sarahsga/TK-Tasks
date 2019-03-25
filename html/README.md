@@ -22,3 +22,13 @@ Each task is named using the format `number-taskname`. The number signifies task
 
 [Click to check full code and explanation of an example task.](example-task/)
 
+### Code Quality
+
+- Follow [indentation rules](https://www.granneman.com/webdev/coding/formatting-and-indenting-your-html)
+- HTML tag names should be in lower case
+- Use relative paths only
+- Use [semantic HTML elements for content sectioning](https://developer.mozilla.org/en-US/docs/Web/HTML/Element#Content_sectioning) wherever possible
+- Attention to Details
+- Use [Comments](https://www.youtube.com/watch?v=jMCEt8ocvXM&list=PLyJQFJk781TLJqVkfLd-TnaWMhMrX0vq-&index=15&t=0s) wherever required
+- Follow [file naming conventions](https://www.youtube.com/watch?v=Iui2UtusKl4&list=PLyJQFJk781TLJqVkfLd-TnaWMhMrX0vq-&index=4&t=0s)
+
