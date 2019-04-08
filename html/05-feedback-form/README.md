@@ -23,9 +23,3 @@ Create a TK Feedback Form:
 4. Add all form validations where appropriate
 
 -------------------
-
-### What does it look like?
-
-![mockup](screenshots/mockup-1.png)
-
-------
